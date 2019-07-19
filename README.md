@@ -1,4 +1,4 @@
-# Music
+# A Machine Learning Framework for Music to Mood Recognition
 
 ## Motivation
 
